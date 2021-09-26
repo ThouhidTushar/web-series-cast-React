@@ -7,9 +7,9 @@ const Header = () => {
 		<div >
 			<nav className="navbar-light bg-primary mb-5 pt-5 ">
 				<div className="display">
-					<a className="navbar-brand" href="#"><h1>Make a Web Series Team  <br />
-						Total Budget:200 Million</h1>
-						<p className="fs-2">We Need To Create a Web Series Better Than Netflix does</p></a>
+					<a className="navbar-brand" href="#"><h1>Make A Web Series Team  <br />
+						Budget: $200 Million</h1>
+						<p className="fs-3">We Need To Create A Web Series Better Than Netflix Does</p></a>
 
 				</div>
 			</nav>
