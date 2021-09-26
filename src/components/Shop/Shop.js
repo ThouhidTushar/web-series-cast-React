@@ -52,7 +52,6 @@ const Shop = () => {
 					>
 
 					</Cart>
-
 				</div>
 			</div>
 		</div>
