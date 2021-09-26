@@ -10,7 +10,6 @@ const Shop = () => {
 
 
 	const handleAddToCart = (product) => {
-		// console.log(product);
 		const newCart = [...cart, product]
 		setCart(newCart)
 		console.log(newCart);
@@ -29,6 +28,7 @@ const Shop = () => {
 		<div className="container">
 			<div className="row">
 				<div className="col-md-9">
+
 					{/* এখানে প্রোডাক্ট লোড করবো*/}
 
 					<div className="row">

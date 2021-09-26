@@ -1,6 +1,6 @@
 import React from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faDollarSign, faShoppingCart } from '@fortawesome/free-solid-svg-icons';
+import { faDollarSign, faShoppingCart, faUser } from '@fortawesome/free-solid-svg-icons';
 
 const Cart = (props) => {
 
@@ -13,12 +13,12 @@ const Cart = (props) => {
 
 	// icons 
 	const doller = <FontAwesomeIcon icon={faDollarSign} />
-	const shoppingCart = <FontAwesomeIcon icon={faShoppingCart} />
+	const user = <FontAwesomeIcon icon={faUser} />
 
 	return (
 		<div>
 
-			<h2> {shoppingCart} Actor Added:{cart.length} </h2>
+			<h2> {user} Actor Added:{cart.length} </h2>
 			<h2> {doller} Total Cost:{total} </h2>
 			<ul>
 				{
