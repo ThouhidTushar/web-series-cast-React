@@ -1,0 +1,146 @@
+[
+	{
+		"name": "Asa Butterfield",
+		"role": "Actor",
+		"age": 22,
+		"country": "UK",
+		"salary": 360000,
+		"img": "https://m.media-amazon.com/images/M/MV5BZGYyN2I4YmQtNGMyOS00MWIwLWJjYzctZjU5NDFhMTI5NDc1XkEyXkFqcGdeQXVyNTE0NzY4NTM@._V1_UX214_CR0,0,214,317_AL_.jpg"
+	},
+	{
+		"name": "Gillian Anderson",
+		"role": "Director",
+		"age": 50,
+		"country": "UK",
+		"salary": 1000000,
+		"img": "https://m.media-amazon.com/images/M/MV5BMmRjNWQwMDQtMWNjZS00ZTUzLTkwODEtMTU5YjRlZmJiMTVkXkEyXkFqcGdeQXVyMTEzNjc3MDQ5._V1_UY317_CR19,0,214,317_AL_.jpg"
+	},
+	{
+		"name": "Ncuti Gatwa",
+		"role": "Actor",
+		"age": 23,
+		"country": "UK",
+		"salary": 150000,
+		"img": "https://m.media-amazon.com/images/M/MV5BNDAyNWRlOGItMGE2Mi00YjU3LWJhMWMtNmZlODNkMThmOWRjXkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_UY317_CR4,0,214,317_AL_.jpg"
+	},
+	{
+		"name": "Emma Mackey",
+		"role": "Actress",
+		"age": 21,
+		"country": "France",
+		"salary": 360000,
+		"img": "https://m.media-amazon.com/images/M/MV5BMWE4YmM5MTctZTEwYy00MGQxLWI2YWUtNDYzOTkwOTZmZGE5XkEyXkFqcGdeQXVyODUyNzc3NTY@._V1_UY317_CR20,0,214,317_AL_.jpg"
+	},
+	{
+		"name": "Connor Swindells",
+		"role": "Actor",
+		"age": 25,
+		"country": "UK",
+		"salary": 20000,
+		"img": "https://m.media-amazon.com/images/M/MV5BMjM2OWJjMWEtNDY0Yy00ODNiLWFlYzktZTZiMTQ1Mzg1MzVkXkEyXkFqcGdeQXVyODA5ODQ0MDE@._V1_UY317_CR24,0,214,317_AL_.jpg"
+	},
+	{
+		"name": "Williams-Stirling",
+		"role": "Actor",
+		"age": 21,
+		"country": "USA",
+		"salary": 100000,
+		"img": "https://m.media-amazon.com/images/M/MV5BOGZjYzkwNjgtYzJlZS00NDJhLWI1MWUtYTA2NGZiOWQ0OGZiXkEyXkFqcGdeQXVyNjY5NDgzNjQ@._V1_UX214_CR0,0,214,317_AL_.jpg"
+	},
+	{
+		"name": "Aimee Lou Wood",
+		"role": "Actress/Director",
+		"age": 22,
+		"country": "UK",
+		"salary": 400000,
+		"img": "https://m.media-amazon.com/images/M/MV5BYmU0NjQyY2YtMTgxOS00NjY2LTg5YTItNTZjZjAxOTcwMjM0XkEyXkFqcGdeQXVyOTUwMDUyNzg@._V1_UY317_CR51,0,214,317_AL_.jpg"
+	},
+	{
+		"name": "Alistair Petrie",
+		"role": "Director",
+		"age": 55,
+		"country": "Spain",
+		"salary": 250000,
+		"img": "https://m.media-amazon.com/images/M/MV5BMGY3MGMxZTMtNTM3ZS00NzcwLThmYmEtOTQwMzYyNGIxMjM3XkEyXkFqcGdeQXVyODY5MTQxNTk@._V1_UX214_CR0,0,214,317_AL_.jpg"
+	},
+	{
+		"name": "Tanya Reynolds ",
+		"role": "Actress",
+		"age": 19,
+		"country": "UK",
+		"salary": 100000,
+		"img": "https://m.media-amazon.com/images/M/MV5BYTc2YTllNDMtM2QxNy00YWMxLWFiOGItNjUyOTk2ZTIyNWUzXkEyXkFqcGdeQXVyNjc2OTM0MDk@._V1_UY317_CR121,0,214,317_AL_.jpg"
+	},
+	{
+		"name": "Patricia Allison",
+		"role": "Actress",
+		"age": 18,
+		"country": "USA",
+		"salary": 130000,
+		"img": "https://m.media-amazon.com/images/M/MV5BNzA4MmIxMGEtNGU5Zi00ODgyLWE1MWEtY2U5NDExNzZjYTE4XkEyXkFqcGdeQXVyODUxNzEzMjc@._V1_UY317_CR9,0,214,317_AL_.jpg"
+	},
+	{
+		"name": "Mikael Persbrandt",
+		"role": "Actor/Producer",
+		"age": 58,
+		"country": "UL",
+		"salary": 250000,
+		"img": "https://m.media-amazon.com/images/M/MV5BMjEwNTMyNzg0NV5BMl5BanBnXkFtZTcwMTY2MDgyMQ@@._V1_UY317_CR35,0,214,317_AL_.jpg"
+	},
+	{
+		"name": "Jim Howick",
+		"role": "Actor",
+		"age": 45,
+		"country": "USA",
+		"salary": 130000,
+		"img": "https://m.media-amazon.com/images/M/MV5BZGY1ZDRhZWYtYjliNy00ZGMzLWEwNGItNDRiNjZjNTkzMmExXkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_UY317_CR130,0,214,317_AL_.jpg"
+	},
+	{
+		"name": "Mimi Keene",
+		"role": "Actress",
+		"age": 21,
+		"country": "Spain",
+		"salary": 250000,
+		"img": "https://m.media-amazon.com/images/M/MV5BMGNjYWM1MjUtMzY1Mi00ZWE4LWJmZTMtYTVmMzM5MmUzZjdiXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_UY317_CR20,0,214,317_AL_.jpg"
+	},
+	{
+		"name": "Chaneil Kular",
+		"role": "Actor",
+		"age": 24,
+		"country": "India",
+		"salary": 100000,
+		"img": "https://m.media-amazon.com/images/M/MV5BODgxYTI3NDQtYzk5OS00ZmZmLTllYTQtMjM5MmQyOTNlZDU2XkEyXkFqcGdeQXVyOTU4MDEwMTg@._V1_UY317_CR20,0,214,317_AL_.jpg"
+	},
+	{
+		"name": "Rakhee Thakrar",
+		"role": "Actress",
+		"age": 38,
+		"country": "UK",
+		"salary": 175000,
+		"img": "https://m.media-amazon.com/images/M/MV5BNzQ5NjdlOTQtMDY1OS00ZWQzLWI0YjMtMDY1NGU1ZWJiYzI0XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_UY317_CR19,0,214,317_AL_.jpg"
+	},
+	{
+		"name": "Samantha Spiro",
+		"role": "Director",
+		"age": 50,
+		"country": "UK",
+		"salary": 150000,
+		"img": "https://m.media-amazon.com/images/M/MV5BMTc0NTM4NjA0NF5BMl5BanBnXkFtZTcwNDQ0NzkxOA@@._V1_UY317_CR2,0,214,317_AL_.jpg"
+	},
+	{
+		"name": "Sami Outalbali",
+		"role": "Actor",
+		"age": 27,
+		"country": "France",
+		"salary": 50000,
+		"img": "https://m.media-amazon.com/images/M/MV5BM2NkZDAzNDYtNjAzNy00NDQzLTlhM2QtMjM5YzJkMjg0Yjg4XkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_UY317_CR237,0,214,317_AL_.jpg"
+	},
+	{
+		"name": "Laurie Nunn",
+		"role": "producer/Director",
+		"age": 36,
+		"country": "UK",
+		"salary": 280000,
+		"img": "https://m.media-amazon.com/images/M/MV5BMTNjNzBiOGYtNTg2Ni00ZjQyLTg3ZjEtODA1NzYyMDk2ZGEwXkEyXkFqcGdeQXVyNDAzNDk0MTQ@._V1_UY317_CR6,0,214,317_AL_.jpg"
+	}
+]
