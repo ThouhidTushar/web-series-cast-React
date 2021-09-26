@@ -13,7 +13,7 @@ const Product = (props) => {
   const cart = <FontAwesomeIcon icon={faCartPlus} />
 
   return (
-    <div className="col-md-4">
+    <div className="col-md-3">
       <div className="card mb-4" style={{ "maxWidth": "auto" }} >
         <div className="row g-0">
           <div className="card">
@@ -22,7 +22,7 @@ const Product = (props) => {
 
           <div className="col-md-12">
             <div className="card-body">
-              <h5 className="card-title fs-2"><small>{name}</small></h5>
+              <h5 className="card-title fs-1"><small>{name}</small></h5>
               <p className="card-text fw-bold"> Role: {role}</p>
               <p className="card-text fw-bold"> Age: {age}</p>
               <p className="card-text fw-bold"> Country: {country}</p>

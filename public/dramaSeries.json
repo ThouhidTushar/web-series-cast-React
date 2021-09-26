@@ -88,15 +88,7 @@
 		"img": "https://m.media-amazon.com/images/M/MV5BMjEwNTMyNzg0NV5BMl5BanBnXkFtZTcwMTY2MDgyMQ@@._V1_UY317_CR35,0,214,317_AL_.jpg"
 	},
 	{
-		"name": "Jim Howick",
-		"role": "Actor",
-		"age": 45,
-		"country": "USA",
-		"salary": 130000,
-		"img": "https://m.media-amazon.com/images/M/MV5BZGY1ZDRhZWYtYjliNy00ZGMzLWEwNGItNDRiNjZjNTkzMmExXkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_UY317_CR130,0,214,317_AL_.jpg"
-	},
-	{
-		"name": "Mimi Keene",
+		"name": "Mimi Keene Alba",
 		"role": "Actress",
 		"age": 21,
 		"country": "Spain",
